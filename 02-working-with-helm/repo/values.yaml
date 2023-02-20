@@ -4,6 +4,6 @@ quarkus:
   deploy:
     route:
       enabled: false
-    replicas: 2
+    replicas: 4
   image:
     name: quay.io/redhatworkshops/gitops-helm-quarkus
